@@ -1,0 +1,21 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "test": "npx tsc && jest"
+  },
+  "keywords": [],
+  "author": "Gustavo Silva Souza",
+  "license": "MIT",
+  "type": "commonjs",
+  "description": "Repositório que contém meus estudos sobre o framework de testes Jest",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
